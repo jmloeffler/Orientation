@@ -10,9 +10,12 @@
     <sprite>sprites\spr_floor</sprite>
     <sprite>sprites\spr_universe</sprite>
     <sprite>sprites\spr_orb</sprite>
+    <sprite>sprites\spr_Door</sprite>
+    <sprite>sprites\spr_ReplayGame</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Universe</background>
+    <background>background\Victory</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -22,9 +25,12 @@
     <object>objects\Floor</object>
     <object>objects\Player</object>
     <object>objects\Orb</object>
+    <object>objects\obj_Door</object>
+    <object>objects\obj_ReplayGame</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Level1</room>
+    <room>rooms\rm_Victory</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
