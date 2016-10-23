@@ -298,8 +298,8 @@ y += vsp;
           <argument>
             <kind>1</kind>
             <string>///Center camera on player
-view_xview = self.x - (view_wview / 2)
-view_yview = self.y - (view_hview / 2)
+//view_xview = self.x - (view_wview / 2)
+//view_yview = self.y - (view_hview / 2)
 </string>
           </argument>
         </arguments>
